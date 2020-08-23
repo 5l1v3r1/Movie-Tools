@@ -2,7 +2,7 @@
 Windows software to find,sort and categorize your movies/series files
 
 ![movie agent image](https://imgur.com/qOKpwxE)
-![movie finder image](https://imgur.com/xaALwcL)
+![movie finder image](C:\Users\noone\Desktop\agent.png)
 
 ## What can i do with this ? 
 with this software, you will be able to copy all your **movie/series** files, 
