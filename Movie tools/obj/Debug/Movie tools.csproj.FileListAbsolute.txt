@@ -1,0 +1,11 @@
+C:\Users\noone\source\repos\Movie tools\Movie tools\obj\Debug\Movie_tools.Properties.Resources.resources
+C:\Users\noone\source\repos\Movie tools\Movie tools\obj\Debug\Movie tools.csproj.GenerateResource.cache
+C:\Users\noone\source\repos\Movie tools\Movie tools\obj\Debug\Movie tools.csproj.CoreCompileInputs.cache
+C:\Users\noone\source\repos\Movie tools\Movie tools\bin\Debug\MVTools.exe.config
+C:\Users\noone\source\repos\Movie tools\Movie tools\bin\Debug\MVTools.exe
+C:\Users\noone\source\repos\Movie tools\Movie tools\bin\Debug\MVTools.pdb
+C:\Users\noone\source\repos\Movie tools\Movie tools\obj\Debug\MVTools.exe
+C:\Users\noone\source\repos\Movie tools\Movie tools\obj\Debug\MVTools.pdb
+C:\Users\noone\source\repos\Movie tools\Movie tools\obj\Debug\Movie_tools.Main.resources
+C:\Users\noone\source\repos\Movie tools\Movie tools\obj\Debug\Movie_tools.Moviefinder.resources
+C:\Users\noone\source\repos\Movie tools\Movie tools\obj\Debug\Movie tools.csprojAssemblyReference.cache
