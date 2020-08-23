@@ -2,8 +2,9 @@
 Windows software to find,sort and categorize your movies/series files
 
 ## What can i do with this ? 
-with this software, you will be able to copy all your **movie/series** files, when you plug any removeable device(such as USB, CD/DVD, External drives and ...)
-In addition, you can sort all your system **movie/series** files (avi, flv, mp4, mkv) by their names
+with this software, you will be able to copy all your **movie/series** files, 
+whenever you plug any removeable device
+you can also sort **all** supported files in your computer, with just click one button in Movie finder section
 
 Series input | Series output
 ------------ | ------------
@@ -24,6 +25,17 @@ tanet-2020-720p.mp4 | other\720p\tanet-2020-720p.mp4
 ## Dependancies
 - .Net framework +4.5
 - +512mb memory
+
+## Testing result
+- USB => success
+- External Hardware => success
+- CD => success
+
+## Supported formats
+- mp4
+- mkv
+- flv
+- avi
 
 ### support / suggestion = ph09nixom@gmail.com - t.me/ph09nix
 ### Leave a STAR if you found this usefull :)
